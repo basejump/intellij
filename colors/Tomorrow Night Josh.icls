@@ -4,7 +4,7 @@
     <property name="created">2017-05-13T14:59:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2018-01-16T18:38:37</property>
+    <property name="modified">2018-01-17T23:10:13</property>
     <property name="originalScheme">Tomorrow Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -501,7 +501,7 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b294bb" />
+        <option name="FOREGROUND" value="f0c674" />
       </value>
     </option>
     <option name="JS.COMMA">
