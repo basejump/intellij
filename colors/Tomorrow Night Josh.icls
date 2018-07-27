@@ -4,7 +4,7 @@
     <property name="created">2017-05-13T14:59:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2018-02-22T18:38:29</property>
+    <property name="modified">2018-07-27T01:50:18</property>
     <property name="originalScheme">Tomorrow Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -12,7 +12,6 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -131,6 +130,13 @@
       <value>
         <option name="FOREGROUND" value="969896" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -526,6 +532,11 @@
         <option name="FOREGROUND" value="235cc2" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="b294bb" />
@@ -535,6 +546,11 @@
       <value>
         <option name="FOREGROUND" value="969896" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -654,6 +670,14 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3f3c" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+        <option name="BACKGROUND" value="1d1d1d" />
+        <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
