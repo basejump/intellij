@@ -4,7 +4,7 @@
     <property name="created">2017-05-13T14:59:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2019-05-24T21:53:01</property>
+    <property name="modified">2019-05-25T14:24:59</property>
     <property name="originalScheme">Tomorrow Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -96,7 +96,7 @@
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6969" />
+        <option name="FOREGROUND" value="8b8b" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
