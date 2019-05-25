@@ -4,7 +4,7 @@
     <property name="created">2017-05-13T14:59:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2019-05-25T14:24:59</property>
+    <property name="modified">2019-05-25T15:08:05</property>
     <property name="originalScheme">Tomorrow Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -399,20 +399,22 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="45302b" />
+        <option name="BACKGROUND" value="52181f" />
         <option name="ERROR_STRIPE_COLOR" value="8f5247" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="484a4a" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+        <option name="FOREGROUND" value="493031" />
+        <option name="BACKGROUND" value="765555" />
+        <option name="ERROR_STRIPE_COLOR" value="765555" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="294436" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
+        <option name="FOREGROUND" value="162f22" />
+        <option name="BACKGROUND" value="264032" />
+        <option name="ERROR_STRIPE_COLOR" value="264032" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
