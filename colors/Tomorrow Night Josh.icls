@@ -4,7 +4,7 @@
     <property name="created">2017-05-13T14:59:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.6.0.0</property>
-    <property name="modified">2019-05-25T15:08:05</property>
+    <property name="modified">2019-05-25T19:08:23</property>
     <property name="originalScheme">Tomorrow Night</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -40,7 +40,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="c5c8c6" />
     <option name="SELECTED_TEARLINE_COLOR" value="373b41" />
-    <option name="SELECTION_BACKGROUND" value="373b41" />
+    <option name="SELECTION_BACKGROUND" value="48463c" />
     <option name="SELECTION_FOREGROUND" value="c5c8c6" />
     <option name="TEARLINE_COLOR" value="282a2e" />
     <option name="WHITESPACES" value="505050" />
@@ -453,7 +453,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c5c8c6" />
-        <option name="BACKGROUND" value="373b41" />
+        <option name="BACKGROUND" value="4e5258" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
