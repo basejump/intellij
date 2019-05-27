@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.8.0.0</property>
-    <property name="modified">2019-05-26T12:36:49</property>
+    <property name="modified">2019-05-26T18:39:15</property>
     <property name="originalScheme">Tomorrow Night Josh</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -45,8 +45,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="c5c8c6" />
     <option name="SELECTED_TEARLINE_COLOR" value="373b41" />
-    <option name="SELECTION_BACKGROUND" value="13a48" />
-    <option name="SELECTION_FOREGROUND" value="c5c8c6" />
+    <option name="SELECTION_BACKGROUND" value="8b7344" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="282a2e" />
     <option name="WHITESPACES" value="505050" />
   </colors>
