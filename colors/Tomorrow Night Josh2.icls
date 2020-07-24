@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.8.0.0</property>
-    <property name="modified">2019-05-26T18:39:15</property>
+    <property name="modified">2020-07-23T19:31:18</property>
     <property name="originalScheme">Tomorrow Night Josh</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -13,9 +13,10 @@
     <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
