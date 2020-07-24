@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="6417cea1-690c-43ff-b4f6-d53c835a63c8" name="basejump">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
