@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="log" type="Native" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="env" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern=".gitignore_global" type="Git file" />
