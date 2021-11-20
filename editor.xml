@@ -7,6 +7,14 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Groovy.groovy.variable.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="groovy.variable.type.hints" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
